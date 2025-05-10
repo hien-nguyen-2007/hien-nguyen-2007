@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<- use gprm to update ->
+<!-- use gprm to update github profile -->
 
 - 🔭 I’m currently working on my Data Science homework
 - 🌱 I’m currently learning the datascience module
