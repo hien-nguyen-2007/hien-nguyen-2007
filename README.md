@@ -2,8 +2,8 @@
 
 <!-- use gprm to update github profile -->
 
-- 🔭 I’m currently working on my Data Science homework
-- 🌱 I’m currently learning the datascience module
+- 🔭 I’m currently working on my Scout management system 
+- 🌱 I’m currently learning about computer systems
 - 💬 Ask me about Stephen Curry
 - 📫 How to reach me: Gmail or Linkedin
 - 😄 Pronouns: he/him
